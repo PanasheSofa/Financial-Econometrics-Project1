@@ -60,9 +60,32 @@ of model coefficients.
 
 ## Repository Structure
 financial-econometrics-project1/
-
 │
 
 ├── Financial_Econometrics_Project1.ipynb   # Main notebook
 
 └── README.md                               # This file
+
+---
+
+## How to Run
+1. Open `Financial_Econometrics_Project1.ipynb` in 
+   Google Colab or Jupyter Notebook
+2. Run **Runtime → Run All**
+3. All data is downloaded automatically via the 
+   yfinance API - no manual data download required
+
+---
+
+## References
+- Hull, John C. *Options, Futures, and Other Derivatives*. 
+  10th ed., Pearson, 2018.
+- Tsay, Ruey S. *Analysis of Financial Time Series*. 
+  3rd ed., Wiley, 2010.
+
+---
+
+## Course Information
+**Course:** Financial Econometrics / Applied Time Series  
+**Project:** Project 1 - Best-Practices Handbook  
+**Submitted to:** chitzlee@gmail.com
