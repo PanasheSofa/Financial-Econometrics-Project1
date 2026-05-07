@@ -60,6 +60,9 @@ of model coefficients.
 
 ## Repository Structure
 financial-econometrics-project1/
+
 │
+
 ├── Financial_Econometrics_Project1.ipynb   # Main notebook
+
 └── README.md                               # This file
