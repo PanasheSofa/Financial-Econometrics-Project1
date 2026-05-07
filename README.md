@@ -1,6 +1,3 @@
-# Financial-Econometrics-project1
-Best-practices handbook addressing four key challenges in financial time series modeling using Apple Inc. (AAPL) daily return data
-
 # Financial Econometrics - Project 1
 ## Best-Practices Handbook: Challenges in Time Series Modeling
 
